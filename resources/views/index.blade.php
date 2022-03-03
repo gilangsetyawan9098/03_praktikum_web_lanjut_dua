@@ -12,7 +12,7 @@
                     <div class="welcome-wrapper">
                         <h2 class="welcome-title text-uppercase">ALGI COMPUTER</h2>
                         <img src="asset/img/elektronik.jpg" alt="Welcome divider" class="welcome-divider-lines-img">
-                        <p class="welcome-description">ALGI Computer telah menghadirkan elektronik berupa Laptop dari brand ASUS dengan tipe ROG Strix G15 Advantage Edition</p>
+                        <p class="welcome-description"> ALGI Computer telah menghadirkan elektronik berupa Laptop dari brand ASUS dengan tipe ROG Strix G15 Advantage Edition</p>
                     </div>
                 </div>
             </div>
