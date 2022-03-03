@@ -39,7 +39,7 @@
                         <div class="welcome-wrapper">
                             <h2 class="welcome-title text-uppercase">Contact</h2>
                             <img src="Asset/img/elektronik.jpg" alt="Welcome divider" class="welcome-divider-lines-img">
-                            <p class="welcome-description">Pada halaman website ini digunakan untuk mengetahui kontak kami.</p>
+                            <p class="welcome-description"> Pada halaman website ini digunakan untuk mengetahui kontak kami.</p>
                         </div>
                     </div>
                 </div>
