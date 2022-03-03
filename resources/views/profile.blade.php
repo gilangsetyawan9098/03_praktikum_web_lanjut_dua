@@ -11,7 +11,7 @@
                         <div class="welcome-wrapper">
                             <h2 class="welcome-title text-uppercase">Work</h2>
                             <img src="asset/img/welcome-divider-lines.png" alt="Welcome divider" class="welcome-divider-lines-img">
-                            <p class="welcome-description">Website ini berguna untuk mempermudah user untuk mencari referensi laptop.</p>
+                            <p class="welcome-description"> Website ini berguna untuk mempermudah user untuk mencari referensi laptop.</p>
                         </div>
                     </div>
                 </div>
