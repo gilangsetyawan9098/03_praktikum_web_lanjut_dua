@@ -11,7 +11,7 @@
                         <div class="welcome-wrapper">
                             <h2 class="welcome-title text-uppercase">About Us</h2>
                             <img src="asset/img/welcome-divider-lines.png" alt="Welcome divider" class="welcome-divider-lines-img">
-                            <p class="welcome-description">ALGI Computer adalah sebuah website untuk mempermudah user dalam mencari sebuah referensi laptop.</p>
+                            <p class="welcome-description"> ALGI Computer adalah sebuah website untuk mempermudah user dalam mencari sebuah referensi laptop.</p>
                         </div>
                     </div>
                 </div>
