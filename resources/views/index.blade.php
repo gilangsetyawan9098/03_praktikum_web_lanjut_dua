@@ -1,5 +1,5 @@
-@extends('layouts.content')
-@section('content')
+@extends('layouts.main')
+@section('main')
 <body>
     <!-- header image -->
     <div class="header-img"></div>

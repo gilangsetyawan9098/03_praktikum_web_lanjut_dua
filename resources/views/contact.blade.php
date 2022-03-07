@@ -1,5 +1,5 @@
-@extends('layouts.content')
-@section('content')
+@extends('layouts.main')
+@section('main')
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -9,28 +9,20 @@
         <title>Multi Profile, Contact Page</title>
         <meta name="description" content="">
         <meta name="author" content="templatemo">
-        <!-- 
-        Multi Profile
-        http://www.templatemo.com/preview/templatemo_457_multi_profile
-        -->
+        
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/templatemo-style.css" rel="stylesheet">
 
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
+        
 
     </head>
     <body class="templatemo-container">
         <!-- header image -->
         <div class="header-img-2">
         </div>
-        <!-- end header image -->
+        
         <!-- Welcome message -->
         <div class="welcome-container">
             <div class="container">
