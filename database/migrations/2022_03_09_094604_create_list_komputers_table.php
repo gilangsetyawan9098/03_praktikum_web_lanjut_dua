@@ -15,6 +15,9 @@ class CreateListKomputersTable extends Migration
     {
         Schema::create('list_komputers', function (Blueprint $table) {
             $table->id();
+            $table->string('namalaptop',100);
+            $table->string('spesifikasi',500);
+            $table->double('harga');
             $table->timestamps();
         });
     }
