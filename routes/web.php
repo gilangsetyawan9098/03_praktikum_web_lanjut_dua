@@ -5,6 +5,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\ListKomputerController;
 
 /*
 |--------------------------------------------------------------------------
@@ -30,3 +31,5 @@ Route::get('/about', [App\Http\Controllers\AboutController::class, 'about'])->na
 Route::get('/profile', [App\Http\Controllers\ProfileController::class, 'profile'])->name('profile');
 
 Route::get('/contact', [App\Http\Controllers\ContactController::class, 'contact'])->name('contact');
+
+Route::get('/listkomputer', [App\Http\Controllers\ListKomputerController::class, 'ListKomputer'])->name('ListKomputer');

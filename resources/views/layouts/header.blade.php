@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{{$title}}}</title>
+        <title>{{$title}}</title>
         <meta name="description" content="">
         <meta name="author" content="templatemo">
         
@@ -35,6 +35,7 @@
                                 <li><a href="/about">About</a></li>
                                 <li><a href="/profile">profile</a></li>
                                 <li><a href="/contact">contact</a></li>
+                                <li><a href="/listkomputer">list</a></li>
                             </ul>
                         </nav>
                     </div>
