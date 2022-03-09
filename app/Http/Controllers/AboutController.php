@@ -8,6 +8,6 @@ class AboutController extends Controller
 {
     public function about (){
         return view('about')
-        ->with('title','About');
+        ->with('title','Tentang Kami');
     }
 }
